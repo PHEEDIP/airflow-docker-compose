@@ -1,6 +1,6 @@
 # Apache Airflow with Docker Compose
 
-![Airflow Logo](https://airflow.apache.org/docs/apache-airflow/stable/_images/airflow-logo.png)
+![Airflow Logo](https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png)
 
 Welcome to the Apache Airflow Docker Compose project! This repository contains everything you need to deploy Apache Airflow using Docker Compose, making it easy to orchestrate complex workflows in a containerized environment.
 

@@ -58,3 +58,12 @@ Clone the repository to your local machine:
 ```bash
 git clone https://github.com/PHEEDIP/airflow-docker-compose.git
 cd airflow-docker-compose
+docker compose up airflow-init
+
+after finish
+
+```bash
+docker compose up
+
+Login at web ui http://localhost:8080.
+user/password : airflow / airflow
